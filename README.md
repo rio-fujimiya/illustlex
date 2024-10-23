@@ -1,5 +1,2 @@
-# i2Illustration
-Interigent and Integrated R&amp;D exploration of commercial Illustration works
-
-[Wiki](https://github.com/rio-fujimiya/i2Illustration/wiki)用のリポジトリです。
-Wiki以外へのコミットは予定されていません。
+# IllustLex
+Especially (Akihabara-style 2D) illustrations are the main focus of this [Wiki](https://github.com/rio-fujimiya/i2Illustration/wiki), which systematizes what it means to "draw" in a broad sense.
